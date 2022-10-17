@@ -1,2 +1,2 @@
 # RespawnFix
-Fixes the start pos and checkpoint respawn lag
+Fixes the start pos and checkpoint respawn lag. Original by [Fig](https://github.com/FigmentBoy/StartPos-Fix)
