@@ -1,3 +1,3 @@
-# Template Mod
+# Respawn Fix
 
-Edit about.md to change this
+Fixes the start pos and checkpoint respawn lag. Original by FigmentBoy.
