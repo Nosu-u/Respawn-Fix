@@ -1,0 +1,15 @@
+{
+	"geode":        "v0.1.0",
+	"version":      "v1.0.0",
+	"id":           "com.nosu.respawnfix",
+	"name":         "RespawnFix",
+	"developer":    "Nosu",
+	"description":  "ladridos",
+	"binary":       "RespawnFix",
+	"dependencies": [
+		{
+			"id": "com.geode.api",
+			"required": false
+		}
+	]
+}
