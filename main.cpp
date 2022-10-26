@@ -1,9 +1,10 @@
 // credit to FigmentBoy!!
-#include <Geode.hpp>
-
-int smoothOut = 0;
+#include <Geode/Geode.hpp>
+#include <Geode/Modify.hpp>
 
 USE_GEODE_NAMESPACE();
+
+int smoothOut = 0;
 
 class $(PlayLayer) {
 	void resetLevel() {
